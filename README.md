@@ -3,24 +3,26 @@
 ### 1. Persiapan Virtual Machine
 
 - **Buat Nama dan Pilih Sistem Operasi**
+
   ![Langkah 1](https://github.com/RadidPalindoAdlan/RADID-PALINDO-ADLAN_09011282328054_SK3C_SISTEM-OPERASI/blob/main/1.png)
 
 - **Konfigurasi Hardware**
   Modifikasi RAM dan CPU (jangan melewati batas hijau)
+  
   ![Langkah 2](https://github.com/RadidPalindoAdlan/RADID-PALINDO-ADLAN_09011282328054_SK3C_SISTEM-OPERASI/blob/main/2.png)
 
 - **Tambahkan Hard Disk Virtual**
-- 
+ 
   ![Langkah 3](https://github.com/RadidPalindoAdlan/RADID-PALINDO-ADLAN_09011282328054_SK3C_SISTEM-OPERASI/blob/main/3.png)
 
 - **Finalisasi Pengaturan**
-- 
+ 
   ![Langkah 4](https://github.com/RadidPalindoAdlan/RADID-PALINDO-ADLAN_09011282328054_SK3C_SISTEM-OPERASI/blob/main/4.png)
 
 ### 2. Konfigurasi Display
 
 - **Atur Display**
-- 
+ 
   ![Langkah 5](https://github.com/RadidPalindoAdlan/RADID-PALINDO-ADLAN_09011282328054_SK3C_SISTEM-OPERASI/blob/main/5.png)
 
 ### 3. Memulai Instalasi
