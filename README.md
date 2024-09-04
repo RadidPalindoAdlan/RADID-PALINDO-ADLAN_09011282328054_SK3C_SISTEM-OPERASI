@@ -1,3 +1,5 @@
+# RADID PALINDO ADLAN_09011282328054_SK3C_SISTEM OPERASI_Tugas 1 dan 2
+
 ## Tugas 1 instalasi linux
 
 ### 1. Persiapan Virtual Machine
